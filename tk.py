@@ -21,7 +21,7 @@ sh.config(background='grey') #background可以縮寫bg
 sh.attributes('-alpha' , 0.3) # 0~1 1 = 100%  0 = 0%
 
 #置頂
-#sh.attributes('-topmost', True) #開啓置頂 True  關閉置頂 Flase
+sh.attributes('-topmost', True) #開啓置頂 True  關閉置頂 Flase
 
 
 
